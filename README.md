@@ -415,7 +415,7 @@ Potential future improvements:
 - Drill-through Detail Pages
 - Advanced Risk Analytics
 Allowable file size was less than 100 Mb so here is link for the dashbaord
-[Bank's Financial Data Analaytics]-- (https://drive.google.com/file/d/1J1_8QtUclCWin9z0Ygu-s5Bl4FX6dFKh/view?usp=sharing)
+[Bank's Financial Data Analytics]-- (https://drive.google.com/file/d/1J1_8QtUclCWin9z0Ygu-s5Bl4FX6dFKh/view?usp=sharing)
 
 ---
 
